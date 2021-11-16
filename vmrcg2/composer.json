@@ -1,0 +1,23 @@
+{ 
+    "Sample_Data" :
+    [{
+      "userID": 1383458400,
+      "icon": "partly-cloudy-day",
+      "sunriseTime": 1383491266,
+      "sunsetTime": 1383523844,
+      "temperatureMin": -3.46,
+      "temperatureMinTime": 1383544800,
+      "temperatureMax": -1.12,
+      "temperatureMaxTime": 1383458400
+      },
+      {
+      "userID": 1383458400,
+      "icon": "partly-cloudy-day",
+      "sunriseTime": 1383491266,
+      "sunsetTime": 1383523844,
+      "temperatureMin": -3.46,
+      "temperatureMinTime": 1383544800,
+      "temperatureMax": -1.12,
+      "temperatureMaxTime": 1383458400
+    }]
+  }
